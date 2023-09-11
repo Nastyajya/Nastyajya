@@ -1,6 +1,6 @@
 <h1>  Hi there! I'm Anastasiia
   
-Languages and Tools :
+## Languages and Tools :
 
 <p  align="center"> 
 

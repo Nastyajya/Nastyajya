@@ -34,12 +34,12 @@
 
 ## My projects:
 ### :heavy_check_mark: Wikipedia mobile app test automation project
-[![Readme Card](https://github.com/Nastyajya/Mobile_Wiikipedia)
+(https://github.com/Nastyajya/Mobile_Wiikipedia)
 
 ### :API test automation project for dummy.restapiexample.com
-[![Readme Card](https://github.com/Nastyajya/Api_graduate_work)
+(https://github.com/Nastyajya/Api_graduate_work)
 
 ### : UI project on automated testing of thebach.com
-[![Readme Card](https://github.com/Nastyajya/Project-finally)
+(https://github.com/Nastyajya/Project-finally)
 
   

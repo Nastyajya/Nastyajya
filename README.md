@@ -10,7 +10,7 @@
 <img width="5%" title="Gradle" src="Media/Gradle.svg">
 <img width="5%" title="Junit5" src="Media/Junit5.svg">
 <img width="5%" title="Appium" src="Media/appium.svg">
-<img width="5%" title="Jira" src="Media/Jira(1).svg">
+<img width="5%" title="Jira" src="Media/Jira (1).svg">
 <img width="5%" title="Allure Report" src="Media/Allure.svg">
 <img width="5%" title="Allure TestOps" src="Media/Allure_TO.svg">
 <img width="5%" title="Jenkins" src="Media/Jenkins.svg">

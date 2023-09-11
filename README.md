@@ -14,7 +14,6 @@
 <img width="5%" title="Allure Report" src="Media/Allure.svg">
 <img width="5%" title="Allure TestOps" src="Media/Allure_TO.svg">
 <img width="5%" title="Jenkins" src="Media/Jenkins.svg">
-<img width="5%" title="Browserstack" src="Media/Browserstack.svg">
 <img width="5%" title="RestAssured" src="Media/RestAssured.svg">
 <img width="5%" title="Appium inspector" src="Media/appium_inspector.png">
 </p>
@@ -31,12 +30,10 @@
   <a href="https://t.me/nastyajyaa">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  
    <a href="mailto:zelenskaia02@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  
-  <a href="(https://www.linkedin.com/in/anastasiia-zelenskaia-a2157323a">
+   <a href="(https://www.linkedin.com/in/anastasiia-zelenskaia-a2157323a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   

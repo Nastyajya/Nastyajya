@@ -29,7 +29,7 @@
 <img width="5%" title="Jenkins" src="Media/Jenkins.svg">
 <img width="5%" title="Browserstack" src="Media/Browserstack.svg">
 <img width="5%" title="RestAssured" src="Media/RestAssured.svg">
-
+<img width="5%" title="Idea" src="Media/idea.svg">
 </p>
 
 ## My projects:

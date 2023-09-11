@@ -1,18 +1,4 @@
-### Hi there! I'm Anastasiia
-### How to reach me:
-
-  <a href="https://t.me/nastyajyaa">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  
-   <a href="mailto:kolod.02@mail.ru">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  
-  <a href="(https://www.linkedin.com/in/anastasiia-zelenskaia-a2157323a">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-
+#### Hi there! I'm Anastasiia
 ###  &nbsp;Languages and Tools :
 
 <p  align="center"> 
@@ -36,10 +22,22 @@
 ### :heavy_check_mark: Wikipedia mobile app test automation project
 (https://github.com/Nastyajya/Mobile_Wiikipedia)
 
-### :API test automation project for dummy.restapiexample.com
-(https://github.com/Nastyajya/Api_graduate_work)
+### :API test automation project for dummy.restapiexample.com[(https://github.com/Nastyajya/Api_graduate_work)]
 
 ### : UI project on automated testing of thebach.com
-(https://github.com/Nastyajya/Project-finally)
+https://github.com/Nastyajya/Project-finally
 
+### How to reach me:
+
+  <a href="https://t.me/nastyajyaa">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  
+   <a href="mailto:kolod.02@mail.ru">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  
+  <a href="(https://www.linkedin.com/in/anastasiia-zelenskaia-a2157323a">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
   

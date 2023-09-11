@@ -19,11 +19,11 @@
 </p>
 
 ## My projects:
-### :[Wikipedia mobile app test automation project](https://github.com/Nastyajya/Mobile_Wiikipedia)
+### [Wikipedia mobile app test automation project](https://github.com/Nastyajya/Mobile_Wiikipedia)
 
-### :[ API test automation project for dummy.restapiexample.com](https://github.com/Nastyajya/Api_graduate_work)
+### [ API test automation project for dummy.restapiexample.com](https://github.com/Nastyajya/Api_graduate_work)
 
-### : [UI project on automated testing of thebach.com](https://github.com/Nastyajya/Project-finally)
+### [UI project on automated testing of thebach.com](https://github.com/Nastyajya/Project-finally)
 
 ### Ways to contact me:
 
